@@ -45,6 +45,12 @@ I enjoy building secure web applications and analyzing vulnerabilities in system
 - VMware
 - Firebase
 
+### AI
+- N8N
+- HuggingFace
+- OpenAI Agents
+- Groq API
+- Airtable
 ---
 
 ## 📂 Projects
